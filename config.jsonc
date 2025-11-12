@@ -752,8 +752,8 @@
             "categories": []
         },
         "snowrider": {
-            "path": "snowrider/index.html",
-            "aliases": [],
+            "path": "snowrider",
+            "aliases": [3D],
             "categories": []
         },
         "Soccer Random": {
