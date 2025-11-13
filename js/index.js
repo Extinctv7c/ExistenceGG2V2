@@ -198,7 +198,8 @@ dragElement(document.getElementById('refresh'));
 const sequences = [
     { keys: ['ArrowUp', 'ArrowUp', 'ArrowDown', 'ArrowDown', 'ArrowLeft', 'ArrowRight', 'ArrowLeft', 'ArrowRight', 'KeyB', 'KeyA', 'Enter'], action: () => alert('No easter egg here') },
     { keys: ['KeyL', 'KeyE', 'KeyT', 'Space', 'KeyI', 'KeyT', 'Space', 'KeyS', 'KeyN', 'KeyO', 'KeyW'], action: snow },
-  ];
+    { keys: ['KeyH', 'KeyE', 'KeyL', 'KeyL', 'KeyO',], action: () => alert('Hi Welcome back!') },
+    ];
 
   let index = 0;
 
