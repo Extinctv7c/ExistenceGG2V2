@@ -455,6 +455,11 @@
             "aliases": [],
             "categories": []
         },
+        "Gun Mayhem Redux": {
+            "path": "flash/?game=gun-mayhem-redux",
+            "aliases": [],
+            "categories": []
+        },
         "Gun Spin": {
             "path": "gunspin",
             "aliases": [],
@@ -753,7 +758,7 @@
         },
         "snowrider": {
             "path": "snowrider",
-            "aliases": [3D],
+            "aliases": [],
             "categories": []
         },
         "Soccer Random": {
