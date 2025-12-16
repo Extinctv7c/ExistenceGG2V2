@@ -520,6 +520,11 @@
             "aliases": [],
             "categories": []
         },
+        "kindergarten": {
+            "path": "kindergarten",
+            "aliases": [],
+            "categories": []
+        },
         "Learn To Fly": {
             "path": "flash/?game=learn-to-fly",
             "aliases": [],
@@ -608,6 +613,11 @@
         },
         "Particle Clicker": {
             "path": "particle-clicker",
+            "aliases": [],
+            "categories": []
+        },
+        "People Playground": {
+            "path": "people-playground",
             "aliases": [],
             "categories": []
         },
