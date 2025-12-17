@@ -400,6 +400,11 @@
             "aliases": [],
             "categories": []
         },
+        "fnaf": {
+            "path": "fnaf",
+            "aliases": [],
+            "categories": []
+        },
         "Friday Night Funkin": {
             "path": "friday-night-funkin",
             "aliases": [],
