@@ -180,6 +180,11 @@
             "aliases": [],
             "categories": []
         },
+        "Buckshot Roulette": {
+            "path": "buckshot",
+            "aliases": [],
+            "categories": []
+        },
         "Cat Ninja": {
             "path": "flash/?game=cat-ninja",
             "aliases": [],
