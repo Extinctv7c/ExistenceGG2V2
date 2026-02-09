@@ -410,6 +410,11 @@
             "aliases": [],
             "categories": []
         },
+        "Fluid Sim": {
+            "path": "fluid-sim",
+            "aliases": [],
+            "categories": []
+        },
         "fnaf": {
             "path": "fnaf",
             "aliases": [],
