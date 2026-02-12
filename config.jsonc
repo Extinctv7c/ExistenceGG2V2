@@ -405,6 +405,11 @@
             "aliases": ["Fireboy and Watergirl 4"],
             "categories": []
         },
+        "Five Nights at Epsteins Island": {
+            "path": "fnaei",
+            "aliases": [],
+            "categories": []
+        },
         "Flash Chess": {
             "path": "flash/?game=flash-chess",
             "aliases": [],
