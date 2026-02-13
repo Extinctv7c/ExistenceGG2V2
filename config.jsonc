@@ -405,8 +405,8 @@
             "aliases": ["Fireboy and Watergirl 4"],
             "categories": []
         },
-        "Five Nights at Epsteins Island": {
-            "path": "fnaei",
+        "Five Nights at Epsteins": {
+            "path": "fnae",
             "aliases": [],
             "categories": []
         },
@@ -1072,7 +1072,7 @@
     },
     "config": {
         "proxy": true, // proxy only works when self-hosted
-        "proxyPath": "https://fluffy-disco-5ggx99j7xvpq2jrr-8080.app.github.dev/" // absolute or relative path to proxy; proxy must be set to true for this setting to have any effect.
+        "proxyPath": "https://fake.bayworld.net/" // absolute or relative path to proxy; proxy must be set to true for this setting to have any effect.
         // if you are using VioletGG2, all you need to do set proxy to "/proxy.html"
     }
 }
